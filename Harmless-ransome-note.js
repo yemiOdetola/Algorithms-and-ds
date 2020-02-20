@@ -1,3 +1,5 @@
+// link to repl.it >> https://repl.it/@blarcmann/HRN
+
 function hrm(note, magazine) {
   let noteText = note.toString().toLowerCase();
   let magazineText = magazine.toString().toLowerCase();

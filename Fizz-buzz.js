@@ -1,3 +1,5 @@
+// link to repl.it >> https://repl.it/@blarcmann/fizzbuzz
+
 function fizz(num) {
   // if(num < 20) return console.log('num not up to 20');
   for (let i = 1; i <= num; i++) {
