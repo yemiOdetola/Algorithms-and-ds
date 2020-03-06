@@ -11,8 +11,6 @@ isPrime(23);
 
 
 
-
-
 // Prime factorization
 // The process of determining which prime numbers multiply to a given // number
 
